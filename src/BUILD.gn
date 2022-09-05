@@ -1,0 +1,6 @@
+executable("src") {
+ sources = [
+  "main.cpp",
+ ]
+   deps = []
+}
